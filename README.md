@@ -1,2 +1,2 @@
-# Horndeski_Theory
+# Horndeski Theory
 First order cosmological perturbations of the Horndeski theory.
